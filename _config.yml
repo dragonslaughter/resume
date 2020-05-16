@@ -64,3 +64,5 @@ resume:
       items: Consectetur, Adipiscing, Elit
     - title: Skill Group 3
       items: Sed do, Eiusmod, Tempor, Incididunt
+
+theme: jekyll-theme-cayman
